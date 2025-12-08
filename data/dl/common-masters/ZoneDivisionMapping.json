@@ -595,6 +595,14 @@
         {
           "divisionName": "EE-Electric/Auto/E&M/Solar-I",
           "divisionCode": "8"
+        },
+        {
+          "divisionName": "EE(Auto)",
+          "divisionCode": "33"
+        },
+        {
+          "divisionName": "EE E&M",
+          "divisionCode": "34"
         }
       ]
     },

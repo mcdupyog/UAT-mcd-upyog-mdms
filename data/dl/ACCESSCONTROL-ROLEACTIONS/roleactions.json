@@ -31458,6 +31458,24 @@
       "actionid": 1647,
       "actioncode": "",
       "tenantId": "dl"
+    },
+	{
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2939,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2939,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "CANCEL_BILL",
+      "actionid": 2939,
+      "actioncode": "",
+      "tenantId": "dl"		
     }  
   ]
 }

@@ -1,0 +1,22 @@
+{
+    "tenantId": "dl",
+    "moduleName": "Workflow",
+    "AllowedDesignations": [
+        {
+            "code": "JAO",
+            "designationId": "DESIG_33"
+        },
+        {
+            "code": "AAO",
+            "designationId": "DESIG_04"
+        },
+        {
+            "code": "AO",
+            "designationId": "DESIG_22"
+        },
+        {
+            "code": "EE",
+            "designationId": "DESIG_09"
+        }
+    ]
+}

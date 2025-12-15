@@ -8,7 +8,7 @@
       "description": "Superintending Engineer ( B&R)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_02",
@@ -16,7 +16,7 @@
       "description": "Corporation Engineer (B&R)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_03",
@@ -24,7 +24,7 @@
       "description": "AE (Assistant Engineer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_04",
@@ -32,7 +32,7 @@
       "description": "AAO (Assistant Accounts Officer/Accountant)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_05",
@@ -40,7 +40,7 @@
       "description": "Land Scape Officer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_06",
@@ -48,7 +48,7 @@
       "description": "Superintending Engineer (O&M)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_07",
@@ -56,7 +56,7 @@
       "description": "Corporation Engineer (O&M)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_08",
@@ -64,7 +64,7 @@
       "description": "JE (Junior Engineer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_09",
@@ -72,7 +72,7 @@
       "description": "Executive Engineer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_10",
@@ -80,7 +80,7 @@
       "description": "Superintending Engineer (Light)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_11",
@@ -88,7 +88,7 @@
       "description": "Corporation Engineer (Light)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_12",
@@ -96,7 +96,7 @@
       "description": "ASO (Assistant Section Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_13",
@@ -104,7 +104,7 @@
       "description": "HO (Health Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_14",
@@ -112,7 +112,7 @@
       "description": "MO (Medical Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_15",
@@ -120,7 +120,7 @@
       "description": "CSI (Chief Sanitary Inspector)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_16",
@@ -128,7 +128,7 @@
       "description": "Clerk",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_17",
@@ -136,7 +136,7 @@
       "description": "Accountant",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_18",
@@ -144,7 +144,7 @@
       "description": "Senior Town Planner",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_19",
@@ -152,7 +152,7 @@
       "description": "Municipal Town Planner",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_20",
@@ -160,7 +160,7 @@
       "description": "Asst. Town Planner",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_21",
@@ -168,7 +168,7 @@
       "description": "Building Inspector",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_22",
@@ -176,7 +176,7 @@
       "description": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_23",
@@ -184,7 +184,7 @@
       "description": "Citizen service representative",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_24",
@@ -192,7 +192,7 @@
       "description": "DCA (Deputy Controller Accounts)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_26",
@@ -200,7 +200,7 @@
       "description": "Assistant Commissioner",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_27",
@@ -208,7 +208,7 @@
       "description": "Superintendent",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_30",
@@ -216,7 +216,7 @@
       "description": "Commissioner",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_31",
@@ -224,7 +224,7 @@
       "description": "JSA (Junior Secretariat Assitant)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_33",
@@ -232,7 +232,7 @@
       "description": "JAO (Junior Accounts Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_34",
@@ -240,7 +240,7 @@
       "description": "SSA (Senior Secretariat Assitant)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_35",
@@ -248,7 +248,7 @@
       "description": "DEO (Data Entry Operator)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_36",
@@ -256,7 +256,7 @@
       "description": "ASI (Assistant Sanitary Inspector)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_37",
@@ -264,7 +264,7 @@
       "description": "CW (Community worker)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_39",
@@ -272,7 +272,7 @@
       "description": "DAO (Dealing Assistant Accounts)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_40",
@@ -280,7 +280,7 @@
       "description": "Data Entry Operator (DEO)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_41",
@@ -288,7 +288,7 @@
       "description": "Assistant Malaria Inspector",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_42",
@@ -296,7 +296,7 @@
       "description": "Multi Tasking Staff (MTS)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_43",
@@ -304,7 +304,7 @@
       "description": "MI (Malaria Inspector)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_44",
@@ -312,7 +312,7 @@
       "description": "Head Clerk",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_47",
@@ -320,7 +320,7 @@
       "description": "Veterinary Inspector",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_48",
@@ -328,7 +328,7 @@
       "description": "Assitant Public Health Inspector",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_49",
@@ -336,7 +336,7 @@
       "description": "Mali C/B",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_50",
@@ -344,7 +344,7 @@
       "description": "Deputy Director of Education",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_51",
@@ -352,7 +352,7 @@
       "description": "JA (Junior Auditor)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_52",
@@ -360,7 +360,7 @@
       "description": "ADH (Assistant Director(Horticulture)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_53",
@@ -368,7 +368,7 @@
       "description": "ASSTT. COMMUNITY ORGANISER",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_54",
@@ -376,7 +376,7 @@
       "description": "Internal Audit Officer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_55",
@@ -384,7 +384,7 @@
       "description": "(Adminstrative Officer) AO",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_56",
@@ -392,7 +392,7 @@
       "description": "Veterinary Officer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_57",
@@ -400,7 +400,7 @@
       "description": "Zonal Epidemiologist",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_58",
@@ -408,7 +408,7 @@
       "description": "SO",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_59",
@@ -416,7 +416,7 @@
       "description": "SE",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_60",
@@ -424,7 +424,7 @@
       "description": "Jt. Asssessor & Collector",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_61",
@@ -432,7 +432,7 @@
       "description": "DHO (Deputy Health Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_62",
@@ -440,7 +440,7 @@
       "description": "DA&C (Deputy Asessor & Collector)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_63",
@@ -448,7 +448,7 @@
       "description": "Addl. MS (Additional Medical Superintendent)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_65",
@@ -456,7 +456,7 @@
       "description": "Deputy Director",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_66",
@@ -464,7 +464,7 @@
       "description": "CO (Community Organiser)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_67",
@@ -472,7 +472,7 @@
       "description": "CAMO",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_68",
@@ -480,7 +480,7 @@
       "description": "MS (Medical Superidentant)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_69",
@@ -488,7 +488,7 @@
       "description": "AD (Assistant Director)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_70",
@@ -496,7 +496,7 @@
       "description": "Assistant Director of Education",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_71",
@@ -504,7 +504,7 @@
       "description": "Director",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_72",
@@ -512,7 +512,7 @@
       "description": "Director IT",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_73",
@@ -520,7 +520,7 @@
       "description": "Director of Inquiries/ADC",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_74",
@@ -528,7 +528,7 @@
       "description": "DAILY WAGE",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_75",
@@ -536,7 +536,7 @@
       "description": "R.S.K",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_77",
@@ -544,7 +544,7 @@
       "description": "GDMO-I (General Duty Medical Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_78",
@@ -552,7 +552,7 @@
       "description": "Entomologist",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_81",
@@ -560,7 +560,7 @@
       "description": "Deputy Chief Auditor",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_82",
@@ -568,7 +568,7 @@
       "description": "DDO (Drawing and Disbursing Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_83",
@@ -576,7 +576,7 @@
       "description": "School Inspector",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_84",
@@ -584,7 +584,7 @@
       "description": "CMO (Chief Medical Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_85",
@@ -592,7 +592,7 @@
       "description": "EXT. EDU",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_86",
@@ -600,7 +600,7 @@
       "description": "Statical Clerk",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_87",
@@ -608,7 +608,7 @@
       "description": "CSI (Chief Sanitary Inspector)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_88",
@@ -616,7 +616,7 @@
       "description": "Chief Sanitary Officer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_91",
@@ -624,7 +624,7 @@
       "description": "Registrar",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_92",
@@ -632,7 +632,7 @@
       "description": "Senior Auditor",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_93",
@@ -640,7 +640,7 @@
       "description": "(Assistant Audit Officer) AAO",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_95",
@@ -648,7 +648,7 @@
       "description": "ADC (Additional Deputy Commissioner)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_96",
@@ -656,7 +656,7 @@
       "description": "Ad.D (Additional Director)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_98",
@@ -664,7 +664,7 @@
       "description": "DDH (Deputy Director(Horticulture)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_100",
@@ -672,7 +672,7 @@
       "description": "Epidemiologist",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_101",
@@ -680,7 +680,7 @@
       "description": "Dean",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_102",
@@ -688,7 +688,7 @@
       "description": "CLWO (Chief Labour Welfare Officer)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_103",
@@ -696,7 +696,7 @@
       "description": "ADE (Assistant Director Education)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_105",
@@ -704,7 +704,7 @@
       "description": "DDVS (Deputy Director (Veterinary Services)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_107",
@@ -712,7 +712,7 @@
       "description": "Law Officer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_109",
@@ -720,7 +720,7 @@
       "description": "Director (P)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_110",
@@ -728,7 +728,7 @@
       "description": "VO/DD(VS)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_111",
@@ -736,7 +736,7 @@
       "description": "LDC (Lower Division Clerk)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_112",
@@ -744,7 +744,7 @@
       "description": "A&C (Asssessor & Collector)",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_113",
@@ -752,7 +752,7 @@
       "description": "Consultant",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_114",
@@ -760,7 +760,7 @@
       "description": "Cashier",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_115",
@@ -768,7 +768,7 @@
       "description": "Cheque Writer",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     },
     {
       "code": "DESIG_116",
@@ -776,7 +776,7 @@
       "description": "Principal",
       "active": true,
       "minamount": 1,
-      "maxamount": 50000000
+      "maxamount": 100000000
     }
   ]
 }

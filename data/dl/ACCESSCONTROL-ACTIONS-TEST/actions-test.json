@@ -19864,6 +19864,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Administration.Cancel Bills Approved by Approver",
       "navigationURL": "services/EGF/voucher/cancelApproverBill-beforeSearch.action"
-    }  
+    },
+	{
+      "id": 2940,
+      "name": "BankMaster-Inbox",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Bank Account Inbox",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Bank.Bank Account Inbox",
+      "navigationURL": "services/EGF/bankaccount/inbox"
+    }
   ]
 }

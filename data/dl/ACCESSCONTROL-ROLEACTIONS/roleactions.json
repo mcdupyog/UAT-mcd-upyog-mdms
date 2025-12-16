@@ -31476,6 +31476,12 @@
       "actionid": 2939,
       "actioncode": "",
       "tenantId": "dl"		
-    }  
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2940,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
   ]
 }

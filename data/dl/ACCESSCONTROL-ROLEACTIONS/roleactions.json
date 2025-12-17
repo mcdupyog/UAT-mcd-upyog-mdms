@@ -31482,6 +31482,18 @@
       "actionid": 2940,
       "actioncode": "",
       "tenantId": "dl"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2941,
+      "actioncode": "",
+      "tenantId": "dl"
     }
   ]
 }

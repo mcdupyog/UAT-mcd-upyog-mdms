@@ -19878,6 +19878,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Bank.Bank Account Inbox",
       "navigationURL": "services/EGF/bankaccount/inbox"
+    },
+	{
+      "id": 2941,
+      "name": "zonewiseBudgetReports_master",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Zone Wise Budget",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Report Generation.Budget Reports.Zone Wise Budget",
+      "navigationURL": "services/EGF/budget/budgetReport-ZoneWiseReport",
+      "leftIcon": "editor:insert-chart"
     }
   ]
 }

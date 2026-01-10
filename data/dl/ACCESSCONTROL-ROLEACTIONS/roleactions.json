@@ -31512,6 +31512,66 @@
     "actionid": 1661,
     "actioncode": "",
     "tenantId": "dl"
-  }  
+  }, 
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2942,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2943,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+  {
+    "rolecode": "EGF_MASTER_ADMIN",
+    "actionid": 2943,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 2943,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2944,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2945,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+  {
+    "rolecode": "EGF_MASTER_ADMIN",
+    "actionid": 2945,
+    "actioncode": "",
+    "tenantId": "dl"
+    },
+  {
+    "rolecode": "VENDOR_CREATOR",
+    "actionid": 2945,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2946,
+    "actioncode": "",
+    "tenantId": "dl"
+   },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 2946,
+    "actioncode": "",
+    "tenantId": "dl"
+    }
   ]
 }

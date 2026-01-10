@@ -20,7 +20,7 @@
         110016, 110017, 110021, 110024, 110026, 110027, 110018, 110064, 110046, 110058, 110043, 110059, 110041,
         110018, 110021, 110024, 110026, 110027, 110041, 110043, 110045, 110046, 110058, 110059, 110063, 110064, 110087
       ],
-      "logoId": "https://mcd-asset.s3.ap-south-1.amazonaws.com/Logo.png",
+      "logoId": "https://abdeas-dev-asset.s3.ap-south-1.amazonaws.com/Logo.png",
       "imageId": null,
       "domainUrl": "https://mcdfinance.mcd.gov.in",
       "type": "CITY",
@@ -55,7 +55,7 @@
       "code": "dl",
       "name": "State",
       "description": "State",
-      "logoId": "https://mcd-asset.s3.ap-south-1.amazonaws.com/Logo.png",
+      "logoId": "https://abdeas-dev-asset.s3.ap-south-1.amazonaws.com/Logo.png",
       "imageId": null,
       "domainUrl": "https://mcdfinance.mcd.gov.in",
       "type": "CITY",

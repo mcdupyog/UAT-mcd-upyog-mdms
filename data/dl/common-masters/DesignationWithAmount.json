@@ -7,776 +7,1192 @@
       "name": "Superintending Engineer ( B&R)",
       "description": "Superintending Engineer ( B&R)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_02",
       "name": "Corporation Engineer (B&R)",
       "description": "Corporation Engineer (B&R)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_03",
       "name": "AE (Assistant Engineer)",
       "description": "AE (Assistant Engineer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_04",
       "name": "AAO (Assistant Accounts Officer/Accountant)",
       "description": "AAO (Assistant Accounts Officer/Accountant)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ESTABLISHMENT": {
+          "minamount": 1,
+          "maxamount": 300000
+        },
+        "CONTINGENT": {
+          "minamount": 1,
+          "maxamount": 10000
+        },
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_05",
       "name": "Land Scape Officer",
       "description": "Land Scape Officer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_06",
       "name": "Superintending Engineer (O&M)",
       "description": "Superintending Engineer (O&M)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_07",
       "name": "Corporation Engineer (O&M)",
       "description": "Corporation Engineer (O&M)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_08",
       "name": "JE (Junior Engineer)",
       "description": "JE (Junior Engineer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_09",
       "name": "Ex.En (Executive Engineer)",
       "description": "Executive Engineer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_10",
       "name": "Superintending Engineer (Light)",
       "description": "Superintending Engineer (Light)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_11",
       "name": "Corporation Engineer (Light)",
       "description": "Corporation Engineer (Light)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_12",
       "name": "ASO (Assistant Section Officer)",
       "description": "ASO (Assistant Section Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_13",
       "name": "HO (Health Officer)",
       "description": "HO (Health Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_14",
       "name": "MO (Medical Officer)",
       "description": "MO (Medical Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_15",
       "name": "CSI (Chief Sanitary Inspector)",
       "description": "CSI (Chief Sanitary Inspector)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_16",
       "name": "SI (Sanitary Inspector)",
       "description": "Clerk",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_17",
       "name": "Sainitary Supervisor",
       "description": "Accountant",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_18",
       "name": "Senior Town Planner",
       "description": "Senior Town Planner",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_19",
       "name": "Municipal Town Planner",
       "description": "Municipal Town Planner",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_20",
       "name": "Asst. Town Planner",
       "description": "Asst. Town Planner",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_21",
       "name": "Building Inspector",
       "description": "Building Inspector",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_22",
-     "name": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
+      "name": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
       "description": "AO/ACA (Accounts Officer/Assistant Controller of Accounts)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ESTABLISHMENT": {
+          "minamount": 1,
+          "maxamount": 100000000
+        },
+        "CONTINGENT": {
+          "minamount": 1,
+          "maxamount": 100000000
+        },
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_23",
       "name": "Citizen service representative",
       "description": "Citizen service representative",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_24",
       "name": "DCA (Deputy Controller Accounts)",
       "description": "DCA (Deputy Controller Accounts)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ESTABLISHMENT": {
+          "minamount": 300001,
+          "maxamount": 100000000
+        },
+        "CONTINGENT": {
+          "minamount": 10001,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_26",
       "name": "Assistant Commissioner",
       "description": "Assistant Commissioner",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_27",
       "name": "Superintendent",
       "description": "Superintendent",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_30",
       "name": "Commissioner",
       "description": "Commissioner",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_31",
       "name": "JSA (Junior Secretariat Assitant)",
       "description": "JSA (Junior Secretariat Assitant)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_33",
       "name": "JAO (Junior Accounts Officer)",
       "description": "JAO (Junior Accounts Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ESTABLISHMENT": {
+          "minamount": 1,
+          "maxamount": 100000
+        },
+        "CONTINGENT": {
+          "minamount": 1,
+          "maxamount": 5000
+        },
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_34",
       "name": "SSA (Senior Secretariat Assitant)",
       "description": "SSA (Senior Secretariat Assitant)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_35",
       "name": "DEO (Data Entry Operator)",
       "description": "DEO (Data Entry Operator)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_36",
       "name": "ASI (Assistant Sanitary Inspector)",
       "description": "ASI (Assistant Sanitary Inspector)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_37",
       "name": "CW (Community worker)",
       "description": "CW (Community worker)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_39",
       "name": "DAO (Dealing Assistant Accounts)",
       "description": "DAO (Dealing Assistant Accounts)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_40",
       "name": "Data Entry Operator (DEO)",
       "description": "Data Entry Operator (DEO)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_41",
       "name": "AMI",
       "description": "Assistant Malaria Inspector",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_42",
       "name": "Multi Tasking Staff (MTS)",
       "description": "Multi Tasking Staff (MTS)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_43",
       "name": "MI (Malaria Inspector)",
       "description": "MI (Malaria Inspector)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_44",
       "name": "HC (Head Clerk)",
       "description": "Head Clerk",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_47",
       "name": "VI (Veterinary Inspector)",
       "description": "Veterinary Inspector",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_48",
       "name": "APHI (Assitant Public Health Inspector)",
       "description": "Assitant Public Health Inspector",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_49",
       "name": "Mali",
       "description": "Mali C/B",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_50",
       "name": "DDE (Deputy Director Education)",
       "description": "Deputy Director of Education",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_51",
       "name": "JA (Junior Auditor)",
       "description": "JA (Junior Auditor)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_52",
       "name": "ADH (Assistant Director(Horticulture)",
       "description": "ADH (Assistant Director(Horticulture)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_53",
       "name": "ACO (Assistant Community Organiser",
       "description": "ASSTT. COMMUNITY ORGANISER",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_54",
       "name": "IAO (Internal Audit Officer)",
       "description": "Internal Audit Officer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_55",
       "name": "(Adminstrative Officer) AO",
       "description": "(Adminstrative Officer) AO",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_56",
       "name": "VO (Veterinary Officer)",
       "description": "Veterinary Officer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_57",
       "name": "ZE (Zonal Epidemiologist)",
       "description": "Zonal Epidemiologist",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_58",
       "name": "SO (Section Officer)",
       "description": "SO",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_59",
       "name": "SE (Senior Engineer",
       "description": "SE",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_60",
       "name": "JA&C (Jt. Asssessor & Collector)",
       "description": "Jt. Asssessor & Collector",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_61",
       "name": "DHO (Deputy Health Officer)",
       "description": "DHO (Deputy Health Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_62",
       "name": "DA&C (Deputy Asessor & Collector)",
       "description": "DA&C (Deputy Asessor & Collector)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_63",
       "name": "Addl. MS (Additional Medical Superintendent)",
       "description": "Addl. MS (Additional Medical Superintendent)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_65",
       "name": "DD (Deputy Director)",
       "description": "Deputy Director",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_66",
       "name": "CO (Community Organiser)",
       "description": "CO (Community Organiser)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_67",
       "name": "CAMO",
       "description": "CAMO",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_68",
       "name": "MS (Medical Superidentant)",
       "description": "MS (Medical Superidentant)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_69",
       "name": "AD (Assistant Director)",
       "description": "AD (Assistant Director)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_70",
       "name": "Assistant Director of Education",
       "description": "Assistant Director of Education",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_71",
       "name": "Director",
       "description": "Director",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_72",
       "name": "Director IT",
       "description": "Director IT",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_73",
       "name": "Director of Inquiries/ADC",
       "description": "Director of Inquiries/ADC",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_74",
       "name": "DAILY WAGE",
       "description": "DAILY WAGE",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_75",
       "name": "R.S.K",
       "description": "R.S.K",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_77",
       "name": "GDMO-I (General Duty Medical Officer)",
       "description": "GDMO-I (General Duty Medical Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_78",
       "name": "Entomologist",
       "description": "Entomologist",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_81",
       "name": "Deputy Chief Auditor",
       "description": "Deputy Chief Auditor",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_82",
       "name": "DDO (Drawing and Disbursing Officer)",
       "description": "DDO (Drawing and Disbursing Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_83",
       "name": "School Inspector",
       "description": "School Inspector",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_84",
       "name": "CMO (Chief Medical Officer)",
       "description": "CMO (Chief Medical Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_85",
       "name": "EXT. EDU",
       "description": "EXT. EDU",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_86",
       "name": "Statical Clerk (SC)",
       "description": "Statical Clerk",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_87",
       "name": "CSI (Chief Sanitary Inspector)",
       "description": "CSI (Chief Sanitary Inspector)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_88",
       "name": "CSO (Chief Sanitary Officer)",
       "description": "Chief Sanitary Officer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_91",
       "name": "Registrar",
       "description": "Registrar",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_92",
       "name": "Senior Auditor",
       "description": "Senior Auditor",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_93",
       "name": "(Assistant Audit Officer) AAO ",
       "description": "(Assistant Audit Officer) AAO",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_95",
       "name": "Additional Deputy Commissioner)",
       "description": "ADC (Additional Deputy Commissioner)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_96",
       "name": "Ad.D (Additional Director)",
       "description": "Ad.D (Additional Director)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_98",
       "name": "DDH (Deputy Director(Horticulture)",
       "description": "DDH (Deputy Director(Horticulture)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_100",
       "name": "Epidemiologist",
       "description": "Epidemiologist",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_101",
       "name": "Dean",
       "description": "Dean",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_102",
       "name": "CLWO (Chief Labour Welfare Officer)",
       "description": "CLWO (Chief Labour Welfare Officer)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_103",
       "name": "ADE (Assistant Director Education)",
       "description": "ADE (Assistant Director Education)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_105",
       "name": "DDVS (Deputy Director (Veterinary Services)",
       "description": "DDVS (Deputy Director (Veterinary Services)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_107",
       "name": "Law Officer",
       "description": "Law Officer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_109",
       "name": "Director (P)",
       "description": "Director (P)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_110",
       "name": "VO/DD(VS)",
       "description": "VO/DD(VS)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_111",
       "name": "LDC (Lower Division Clerk)",
       "description": "LDC (Lower Division Clerk)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_112",
       "name": "A&C (Asssessor & Collector)",
       "description": "A&C (Asssessor & Collector)",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_113",
       "name": "Consultant",
       "description": "Consultant",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_114",
       "name": "Cashier",
       "description": "Cashier",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_115",
       "name": "Cheque Writer",
       "description": "Cheque Writer",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     },
     {
       "code": "DESIG_116",
       "name": "Principal",
       "description": "Principal",
       "active": true,
-      "minamount": 1,
-      "maxamount": 100000000
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     }
   ]
 }

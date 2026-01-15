@@ -261,6 +261,16 @@
       "code": "HQSTATEUSER",
       "name": "HQ State User",
       "description": "User at HQ level with state access"
+    },
+    {
+      "code": "CONTRACTOR_APPROVER",
+      "name": "Contractor Approver",
+      "description": "User can review and approve Contractor records."
+    },
+    {
+      "code": "SUPPLIER_APPROVER",
+      "name": "Supplier Approver",
+      "description": "User can review and approve Supplier records."
     }
   ]
 }

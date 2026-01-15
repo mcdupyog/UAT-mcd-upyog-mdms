@@ -31572,6 +31572,16 @@
     "actionid": 2946,
     "actioncode": "",
     "tenantId": "dl"
+    },
+    {
+      "rolecode": "CONTRACTOR_APPROVER",
+      "actionid": 2942,
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPPLIER_APPROVER",
+      "actionid": 2944,
+      "tenantId": "dl"
     }
   ]
 }

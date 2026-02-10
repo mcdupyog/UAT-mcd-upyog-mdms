@@ -583,6 +583,24 @@
       "name": "Principal",
       "description": "Principal",
       "active": true
-    }
+    },
+    {
+      "code": "DESIG_117",
+      "name": "GDMO-II",
+      "description": "GDMO-II",
+      "active": true
+    },
+    {
+      "code": "DESIG_118",
+      "name": "Store Keeper",
+      "description": "Store Keeper",
+      "active": true
+    },
+    {
+      "code": "DESIG_119",
+      "name": "Pharmacist",
+      "description": "Pharmacist",
+      "active": true
+    }    
   ]
 }

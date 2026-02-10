@@ -1193,6 +1193,42 @@
           "maxamount": 100000000
         }
       }
+    },
+    {
+      "code": "DESIG_117",
+      "name": "GDMO-II",
+      "description": "GDMO-II",
+      "active": true,
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
+    },
+    {
+      "code": "DESIG_118",
+      "name": "Store Keeper",
+      "description": "Store Keeper",
+      "active": true,
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
+    },
+    {
+      "code": "DESIG_119",
+      "name": "Pharmacist",
+      "description": "Pharmacist",
+      "active": true,
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 100000000
+        }
+      }
     }
   ]
 }

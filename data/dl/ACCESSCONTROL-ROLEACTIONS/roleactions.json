@@ -31582,6 +31582,24 @@
       "rolecode": "SUPPLIER_APPROVER",
       "actionid": 2944,
       "tenantId": "dl"
-    }
+    },
+    {
+      "rolecode": "CANCEL_BILL_APPROVER",
+      "actionid": 2939,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2947,
+      "actioncode": "",
+      "tenantId": "dl"
+    },
+	{
+      "rolecode": "VIEW_BILL_REGISTER",
+      "actionid": 1619,
+      "actioncode": "",
+      "tenantId": "dl"
+    }  
   ]
 }

@@ -19962,6 +19962,17 @@
       "path": "Finance.Report Generation.Budget Reports.Budget Utilization Report",
       "navigationURL": "services/EGF/budget/budgetutilizationreport",
       "leftIcon": "editor:insert-chart"
+    },
+	{
+      "id": 2947,
+      "name": "Fetch books List",
+      "url": "/api/v1/books",
+      "displayName": "Fetch books List",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "egov-hrms",
+      "code": "null",
+      "path": ""
     }
   ]
 }

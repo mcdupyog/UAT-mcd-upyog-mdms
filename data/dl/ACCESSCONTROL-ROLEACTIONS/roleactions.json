@@ -31484,6 +31484,12 @@
       "tenantId": "dl"
     },
 	{
+      "rolecode": "BANK_ACCOUNT_APPROVER",
+      "actionid": 2940,
+      "actioncode": "",
+      "tenantId": "dl"
+    },  
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2941,
       "actioncode": "",

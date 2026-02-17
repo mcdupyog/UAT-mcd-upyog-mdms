@@ -281,6 +281,11 @@
       "code": "VIEW_BILL_REGISTER",
       "name": "View Bill Register",
       "description": "User can View the Bills Created by any User with there workflow."
+    },
+    {
+      "code": "BANK_ACCOUNT_APPROVER",
+      "name": "Bank Account Inbox",
+      "description": "User can Approve the Bank Account Created"
     }
   ]
 }

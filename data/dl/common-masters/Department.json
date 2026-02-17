@@ -8,7 +8,7 @@
       "active": true
     },
     {
-      "name": "Corporation , Standing Committee& other committees",
+      "name": "Corporation / Standing Committee& other committees",
       "code": "002",
       "active": true
     },
@@ -208,7 +208,7 @@
       "active": true
     },
     {
-      "name": "Epidemics, Investigation Bureau & Disinfection",
+      "name": "Epidemics / Investigation Bureau & Disinfection",
       "code": "071",
       "active": true
     },
@@ -248,7 +248,7 @@
       "active": true
     },
     {
-      "name": "Medical Relief - (Polyclinics, Colony Hospital)",
+      "name": "Medical Relief - (Polyclinics / Colony Hospital)",
       "code": "079",
       "active": true
     },
@@ -303,12 +303,12 @@
       "active": true
     },
     {
-      "name": "Medical Relief - Nursing College, Hindu Rao Hospital",
+      "name": "Medical Relief - Nursing College / Hindu Rao Hospital",
       "code": "090",
       "active": true
     },
     {
-      "name": "Medical Relief - Nursing College, Kasturba Hospital",
+      "name": "Medical Relief - Nursing College / Kasturba Hospital",
       "code": "091",
       "active": true
     },
@@ -328,7 +328,7 @@
       "active": true
     },
     {
-      "name": "Director, Ayush",
+      "name": "Director / Ayush",
       "code": "094",
       "active": true
     },
@@ -348,12 +348,12 @@
       "active": true
     },
     {
-      "name": "Ayurvedic Hospital, Ballimaran",
+      "name": "Ayurvedic Hospital / Ballimaran",
       "code": "098",
       "active": true
     },
     {
-      "name": "Ayurvedic Hospital, Haiderpur",
+      "name": "Ayurvedic Hospital / Haiderpur",
       "code": "099",
       "active": true
     },
@@ -363,7 +363,7 @@
       "active": true
     },
     {
-      "name": "Medical Relief - Mata Gujari Hospital, Tilak Nagar",
+      "name": "Medical Relief - Mata Gujari Hospital / Tilak Nagar",
       "code": "146",
       "active": true
     },
@@ -383,7 +383,7 @@
       "active": true
     },
     {
-      "name": "Scavenging, Drain & Sewers",
+      "name": "Scavenging / Drain & Sewers",
       "code": "103",
       "active": true
     },

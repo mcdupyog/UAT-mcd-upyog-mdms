@@ -78,11 +78,6 @@
       "description": "Who has a access to all the works masters."
     },
     {
-      "code": "STADMIN",
-      "name": "State Administrator",
-      "description": "Admin role that as access over a state"
-    },
-    {
       "code": "EGF_BILL_CREATOR",
       "name": "EGF Bill Creator",
       "description": "Employee who creates Bills in finance "

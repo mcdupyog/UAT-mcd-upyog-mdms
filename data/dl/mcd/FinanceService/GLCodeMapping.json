@@ -265,8 +265,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "RBDCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002"     
+      "debitGL": "45020081",     
+      "creditGL": "45020081"     
     },
     {
       "serviceCode": "RBD",
@@ -274,8 +274,18 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "RBDCC02",
-      "debitGL": "1401013",     
-      "creditGL": "1401013",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
+      "active": true     
+    },
+    {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "RBDCC03",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
       "active": true     
     },
     {
@@ -284,8 +294,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HOSCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -294,8 +304,17 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "HOSCC02",
-      "debitGL": "1401007",     
-      "creditGL": "1401007"     
+      "debitGL": "1401013",     
+      "creditGL": "1401013"     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "HOSCC03",
+      "debitGL": "1401013",     
+      "creditGL": "1401013"     
     },
     {
       "serviceCode": "HTL",
@@ -303,8 +322,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -313,8 +332,48 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "HTLCC02",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "HTLCC03",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "HTL2CC01",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "applicationFee",
+      "componentCode": "HTL2CC02",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "applicationFee",
+      "componentCode": "HTL2CC03",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -323,8 +382,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "ETLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002"     
+      "debitGL": "45020081",     
+      "creditGL": "45020081"     
     },
     {
       "serviceCode": "HOS",
@@ -342,8 +401,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "AMTCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -352,8 +411,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "AMTCC02",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -362,8 +421,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "AMDCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -372,8 +431,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "applicationFee",
       "componentCode": "AMDCC02",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -382,8 +441,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "VTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -392,8 +451,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "VTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -442,8 +501,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "VTLCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -477,13 +536,33 @@
       "active": true     
     },
     {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "VTLCC10",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true  
+    },
+    {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "arrearFee",
+      "componentCode": "VTLCC11",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true  
+    }, 
+    {
       "serviceCode": "PET",
       "propertyCategory": "*",
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "PETCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -492,8 +571,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "PETCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -502,8 +581,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "PETCC03",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -512,8 +591,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "convenienceFee",
       "componentCode": "PETCC04",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -522,8 +601,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "latePenality",
       "componentCode": "PETCC05",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -532,8 +611,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "PETCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -542,8 +621,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "licenseFee",
       "componentCode": "PETCC07",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -552,8 +631,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "convenienceFee",
       "componentCode": "PETCC08",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -562,8 +641,28 @@
       "taxPeriod": "ARREARS",
       "componentName": "latePenality",
       "componentCode": "PETCC09",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "PETCC10",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
+      "active": true     
+    },
+    {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "arrearFee",
+      "componentCode": "PETCC11",
+      "debitGL": "1100802",     
+      "creditGL": "1100802",
       "active": true     
     },
     {
@@ -572,8 +671,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "GTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -582,8 +681,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "GTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -592,8 +691,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "GTLCC03",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -602,8 +701,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "convenienceFee",
       "componentCode": "GTLCC04",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -612,8 +711,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "latePenality",
       "componentCode": "GTLCC05",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -622,8 +721,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "GTLCC06",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -642,8 +741,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "convenienceFee",
       "componentCode": "GTLCC08",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -652,8 +751,28 @@
       "taxPeriod": "ARREARS",
       "componentName": "latePenality",
       "componentCode": "GTLCC09",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "GTLCC10",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "arrearFee",
+      "componentCode": "GTLCC11",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -662,8 +781,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "FTLCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -672,8 +791,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "processingFee",
       "componentCode": "FTLCC02",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -682,8 +801,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "licenseFee",
       "componentCode": "FTLCC03",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -692,8 +811,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "convenienceFee",
       "componentCode": "FTLCC04",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -702,8 +821,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "latePenality",
       "componentCode": "FTLCC05",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -722,8 +841,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "transactionFee",
       "componentCode": "FTLCC07",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -732,8 +851,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "registrationFee",
       "componentCode": "FTLCC08",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -742,8 +861,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "interest",
       "componentCode": "FTLCC09",
-      "debitGL": "1100118",     
-      "creditGL": "1100118",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -752,8 +871,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "processingFee",
       "componentCode": "FTLCC10",
-      "debitGL": "1405018",     
-      "creditGL": "1405018",
+      "debitGL": "1407003",     
+      "creditGL": "1407003",
       "active": true     
     },
     {
@@ -762,8 +881,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "licenseFee",
       "componentCode": "FTLCC11",
-      "debitGL": "1401103",     
-      "creditGL": "1401103",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -772,8 +891,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "convenienceFee",
       "componentCode": "FTLCC12",
-      "debitGL": "1401108",     
-      "creditGL": "1401108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -782,8 +901,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "latePenality",
       "componentCode": "FTLCC13",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -802,8 +921,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "transactionFee",
       "componentCode": "FTLCC15",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -812,8 +931,8 @@
       "taxPeriod": "ARREARS",
       "componentName": "registrationFee",
       "componentCode": "FTLCC16",
-      "debitGL": "1100108",     
-      "creditGL": "1100108",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -822,10 +941,30 @@
       "taxPeriod": "ARREARS",
       "componentName": "interest",
       "componentCode": "FTLCC17",
-      "debitGL": "1100118",     
-      "creditGL": "1100118",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "arrearFee",
+      "componentCode": "FTLCC18",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "arrearFee",
+      "componentCode": "FTLCC19",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    }, 
     {
       "serviceCode": "THB",
       "propertyCategory": "*",
@@ -1162,8 +1301,8 @@
       "taxPeriod": "*",
       "componentName": "bank",
       "componentCode": "HMFCC01",
-      "debitGL": "45020002",     
-      "creditGL": "45020002",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
       "active": true     
     },
     {
@@ -1172,8 +1311,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bookingCharges",
       "componentCode": "CSDCC01",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
       "active": true
     },
     {
@@ -1182,8 +1321,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "bookingChargesGst",
       "componentCode": "CSDCC02",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1192,8 +1331,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "securityCharges",
       "componentCode": "CSDCC03",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
       "active": true
     },
     {
@@ -1202,8 +1341,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "securityChargesGst",
       "componentCode": "CSDCC04",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1212,8 +1351,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "tentCharge",
       "componentCode": "CSDCC05",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
       "active": true
     },
     {
@@ -1222,8 +1361,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "tentChargeGst",
       "componentCode": "CSDCC06",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1232,8 +1371,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "serviceCharge",
       "componentCode": "CSDCC07",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "debitGL": "1401105",
+      "creditGL": "1401105",
       "active": true
     },
     {
@@ -1242,8 +1381,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "serviceChargeGst",
       "componentCode": "CSDCC08",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1252,8 +1391,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "acCharge",
       "componentCode": "CSDCC09",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
       "active": true
     },
     {
@@ -1262,8 +1401,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "acChargeGst",
       "componentCode": "CSDCC10",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1272,8 +1411,8 @@
       "taxPeriod": "CURRENT",
       "componentName": "sanitationCharge",
       "componentCode": "CSDCC11",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
       "active": true
     },
     {
@@ -1282,18 +1421,148 @@
       "taxPeriod": "CURRENT",
       "componentName": "sanitationChargeGst",
       "componentCode": "CSDCC12",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bookingCharges",
+      "componentCode": "CSDCC13",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bookingChargesGst",
+      "componentCode": "CSDCC14",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "securityCharges",
+      "componentCode": "CSDCC15",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "securityChargesGst",
+      "componentCode": "CSDCC16",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "tentCharge",
+      "componentCode": "CSDCC17",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "tentChargeGst",
+      "componentCode": "CSDCC18",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "serviceCharge",
+      "componentCode": "CSDCC19",
+      "debitGL": "1401105",
+      "creditGL": "1401105",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "serviceChargeGst",
+      "componentCode": "CSDCC20",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "acCharge",
+      "componentCode": "CSDCC21",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "acChargeGst",
+      "componentCode": "CSDCC22",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "sanitationCharge",
+      "componentCode": "CSDCC23",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
+      "active": true
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "sanitationChargeGst",
+      "componentCode": "CSDCC24",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "PRKCC01",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
     },
     {
       "serviceCode": "PRK",
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "bookingCharges",
-      "componentCode": "PRKCC01",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "componentCode": "PRKCC02",
+      "debitGL": "1301006",
+      "creditGL": "1301006",
       "active": true
     },
     {
@@ -1301,9 +1570,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "bookingChargesGst",
-      "componentCode": "PRKCC02",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "componentCode": "PRKCC03",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1311,9 +1580,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "securityCharges",
-      "componentCode": "PRKCC03",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "componentCode": "PRKCC04",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
       "active": true
     },
     {
@@ -1321,9 +1590,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "securityChargesGst",
-      "componentCode": "PRKCC04",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "componentCode": "PRKCC05",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1331,9 +1600,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "tentCharge",
-      "componentCode": "PRKCC05",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "componentCode": "PRKCC06",
+      "debitGL": "1301006",
+      "creditGL": "1301006",
       "active": true
     },
     {
@@ -1341,9 +1610,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "tentChargeGst",
-      "componentCode": "PRKCC06",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "componentCode": "PRKCC07",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1351,9 +1620,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "serviceCharge",
-      "componentCode": "PRKCC07",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "componentCode": "PRKCC08",
+      "debitGL": "1401105",
+      "creditGL": "1401105",
       "active": true
     },
     {
@@ -1361,9 +1630,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "serviceChargeGst",
-      "componentCode": "PRKCC08",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "componentCode": "PRKCC09",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1371,9 +1640,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "acCharge",
-      "componentCode": "PRKCC09",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "componentCode": "PRKCC10",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
       "active": true
     },
     {
@@ -1381,9 +1650,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "acChargeGst",
-      "componentCode": "PRKCC10",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "componentCode": "PRKCC11",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     },
     {
@@ -1391,9 +1660,9 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "sanitationCharge",
-      "componentCode": "PRKCC11",
-      "debitGL": "1405018",
-      "creditGL": "1405018",
+      "componentCode": "PRKCC12",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
       "active": true
     },
     {
@@ -1401,9 +1670,129 @@
       "propertyCategory": "*",
       "taxPeriod": "CURRENT",
       "componentName": "sanitationChargeGst",
-      "componentCode": "PRKCC12",
-      "debitGL": "3503010",
-      "creditGL": "3503010",
+      "componentCode": "PRKCC13",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bookingCharges",
+      "componentCode": "PRKCC14",
+      "debitGL": "1301006",
+      "creditGL": "1301006",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "bookingChargesGst",
+      "componentCode": "PRKCC15",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "securityCharges",
+      "componentCode": "PRKCC16",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "securityChargesGst",
+      "componentCode": "PRKCC17",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "tentCharge",
+      "componentCode": "PRKCC18",
+      "debitGL": "1301006",
+      "creditGL": "1301006",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "tentChargeGst",
+      "componentCode": "PRKCC19",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "serviceCharge",
+      "componentCode": "PRKCC20",
+      "debitGL": "1401105",
+      "creditGL": "1401105",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "serviceChargeGst",
+      "componentCode": "PRKCC21",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "acCharge",
+      "componentCode": "PRKCC22",
+      "debitGL": "1301005",
+      "creditGL": "1301005",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "acChargeGst",
+      "componentCode": "PRKCC23",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "ARREARS",
+      "componentName": "sanitationCharge",
+      "componentCode": "PRKCC24",
+      "debitGL": "3402003",
+      "creditGL": "3402003",
+      "active": true
+    },
+    {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "sanitationChargeGst",
+      "componentCode": "PRKCC25",
+      "debitGL": "3503002",
+      "creditGL": "3503002",
       "active": true
     }
   ]

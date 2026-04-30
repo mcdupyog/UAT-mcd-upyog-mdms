@@ -1229,6 +1229,18 @@
           "maxamount": 150000000
         }
       }
+    },
+    {
+      "code": "DESIG_120",
+      "name": "Driver",
+      "description": "Driver",
+      "active": true,
+      "billType": {
+        "ALL": {
+          "minamount": 1,
+          "maxamount": 150000000
+        }
+      }
     }
   ]
 }

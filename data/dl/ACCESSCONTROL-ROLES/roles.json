@@ -281,6 +281,11 @@
       "code": "BANK_ACCOUNT_APPROVER",
       "name": "Bank Account Inbox",
       "description": "User can Approve the Bank Account Created"
+    },
+    {
+      "code": "Raise_Demand_to_HQ",
+      "name": "Raise Demand to HQ",
+      "description": "Can raise the Demands of Bills in Zone"
     }
   ]
 }

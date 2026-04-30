@@ -601,6 +601,12 @@
       "name": "Pharmacist",
       "description": "Pharmacist",
       "active": true
-    }    
+    },
+    {
+      "code": "DESIG_120",
+      "name": "Driver",
+      "description": "Driver",
+      "active": true
+    }
   ]
 }

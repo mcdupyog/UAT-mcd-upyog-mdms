@@ -3,6 +3,23 @@
   "moduleName": "common-masters",
   "ZoneDivisionMapping": [
     {
+      "code": "WZ_110",
+      "departmentName": "Engineering Civil",
+      "departmentCode": "110",
+      "zoneName": "WEST ZONE",
+      "zoneCode": "WZ",
+      "divisions": [
+        {
+          "divisionName": "Project-I",
+          "divisionCode": "5"
+        },
+        {
+          "divisionName": "Project-II",
+          "divisionCode": "6"
+        }
+      ]
+    },
+    {
       "code": "CLZ_110",
       "departmentName": "Engineering Civil",
       "departmentCode": "110",

@@ -31613,12 +31613,6 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-	{
-      "rolecode": "Raise_Demand_to_HQ",
-      "actionid": 2949,
-      "actioncode": "",
-      "tenantId": "dl"
-    },
 	 {
       "rolecode": "EGF_REPORT_VIEW",
       "actionid": 2948,
@@ -31643,11 +31637,17 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-	{
-      "rolecode": "SUPERUSER",
-      "actionid": 2949,
+    {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2951,
       "actioncode": "",
       "tenantId": "dl"
-    }  
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2951,
+      "actioncode": "",
+      "tenantId": "dl"
+    }
   ]
 }

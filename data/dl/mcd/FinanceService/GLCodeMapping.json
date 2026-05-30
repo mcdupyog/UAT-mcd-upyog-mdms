@@ -309,6 +309,16 @@
       "active": true     
     },
     {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "RBDCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "HOS",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -326,6 +336,16 @@
       "componentCode": "HOSCC02",
       "debitGL": "1401013",     
       "creditGL": "1401013"     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "HOSCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
     },
     {
       "serviceCode": "HTL",
@@ -348,6 +368,16 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "HTLCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "HTL2",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -367,6 +397,16 @@
       "creditGL": "1401107",
       "active": true     
     },
+     {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "HTL2CC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
     {
       "serviceCode": "ETL",
       "propertyCategory": "*",
@@ -384,6 +424,16 @@
       "componentCode": "ETLCC02",
       "debitGL": "1401107",     
       "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "ETLCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
       "active": true     
     },
     {
@@ -407,6 +457,16 @@
       "active": true     
     },
     {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "AMTCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "AMD",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -424,6 +484,16 @@
       "componentCode": "AMDCC02",
       "debitGL": "1401107",     
       "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "AMDCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
       "active": true     
     },
     {
@@ -497,6 +567,16 @@
       "active": true     
     },
     {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "VTLCC08",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "PET",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -557,6 +637,16 @@
       "active": true     
     },
     {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PETCC07",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "GTL",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -614,6 +704,16 @@
       "componentCode": "GTLCC06",
       "debitGL": "1401103",     
       "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "GTLCC07",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
       "active": true     
     },
     {
@@ -717,6 +817,16 @@
       "active": true     
     },
     {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "FTLCC11",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "THB",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -794,6 +904,16 @@
       "componentCode": "THBCC08",
       "debitGL": "1401102",     
       "creditGL": "1401102",
+      "active": true     
+    },
+    {
+      "serviceCode": "THB",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "THBCC09",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
       "active": true     
     },
     {
@@ -875,6 +995,16 @@
       "debitGL": "1401106",     
       "creditGL": "1401106",
       "active": true
+    },
+    {
+      "serviceCode": "HAW",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "HAWCC09",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
     },
     {
       "serviceCode": "HAC",
@@ -965,6 +1095,16 @@
       "debitGL": "1401101",     
       "creditGL": "1401101",
       "active": true
+    },
+    {
+      "serviceCode": "HAC",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "HACCC10",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
     },
     {
       "serviceCode": "HMF",
@@ -1074,6 +1214,16 @@
       "componentCode": "HMFCC10",
       "debitGL": "3503002",     
       "creditGL": "3503002",
+      "active": true     
+    },
+    {
+      "serviceCode": "HMF",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "HMFCC11",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
       "active": true     
     },
     {
@@ -1207,6 +1357,16 @@
       "active": true
     },
     {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "CSDCC14",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
       "serviceCode": "PRK",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -1337,6 +1497,16 @@
       "active": true
     },
     {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PRKCC14",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    },
+    {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1350,7 +1520,7 @@
     "serviceCode": "PRMS",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "latePenalty",
+    "componentName": "latePenality",
     "componentCode": "PRMSCC02",
     "debitGL": "1405006",
     "creditGL": "1405006",
@@ -1417,6 +1587,16 @@
     "active": true
   },
   {
+      "serviceCode": "PRMS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PRMSCC09",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+  },
+  {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1460,7 +1640,7 @@
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "finePenalty",
+    "componentName": "finePenality",
     "componentCode": "PTR_CAMPCC05",
     "debitGL": "1100108",
     "creditGL": "1100108",
@@ -1470,7 +1650,7 @@
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "latePenalty",
+    "componentName": "latePenality",
     "componentCode": "PTR_CAMPCC06",
     "debitGL": "1100108",
     "creditGL": "1100108",
@@ -1557,6 +1737,16 @@
     "active": true
   },
   {
+      "serviceCode": "PTR_CAMP",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PTR_CAMPCC15",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+  },
+  {
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1600,7 +1790,7 @@
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "finePenalty",
+    "componentName": "finePenality",
     "componentCode": "PTR_AMNCC05",
     "debitGL": "1100108",
     "creditGL": "1100108",
@@ -1610,7 +1800,7 @@
     "serviceCode": "PTR_AMN",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "latePenalty",
+    "componentName": "latePenality",
     "componentCode": "PTR_AMNCC06",
     "debitGL": "1100108",
     "creditGL": "1100108",
@@ -1697,6 +1887,16 @@
     "active": true
   },
   {
+      "serviceCode": "PTR_AMN",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PTR_AMNCC15",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+  },
+  {
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1740,7 +1940,7 @@
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "finePenalty",
+    "componentName": "finePenality",
     "componentCode": "PTR_AMN_CCC05",
     "debitGL": "1100108",
     "creditGL": "1100108",
@@ -1750,7 +1950,7 @@
     "serviceCode": "PTR_AMN_C",
     "propertyCategory": "*",
     "taxPeriod": "*",
-    "componentName": "latePenalty",
+    "componentName": "latePenality",
     "componentCode": "PTR_AMN_CCC06",
     "debitGL": "1100108",
     "creditGL": "1100108",
@@ -1837,6 +2037,16 @@
     "active": true
   },
   {
+      "serviceCode": "PTR_AMN_C",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PTR_AMN_CCC15",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+  },
+  {
     "serviceCode": "MUT",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1855,6 +2065,16 @@
     "debitGL": "1404023",
     "creditGL": "1404023",
     "active": true
+  },
+  {
+      "serviceCode": "MUT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "MUTCC03",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
   }
  ]
 }

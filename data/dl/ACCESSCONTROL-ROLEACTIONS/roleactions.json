@@ -31638,7 +31638,7 @@
       "tenantId": "dl"
     },
     {
-      "rolecode": "EGF_REPORT_VIEW",
+      "rolecode": "BUDGET_CONTROL",
       "actionid": 2951,
       "actioncode": "",
       "tenantId": "dl"

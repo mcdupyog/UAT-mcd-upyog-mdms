@@ -368,7 +368,7 @@
       "active": true
     },
     {
-      "name": "Environment Managment System (EMS)",
+      "name": "Conservancy and Sanitation",
       "code": "100",
       "active": true
     },
@@ -465,10 +465,10 @@
     {
       "name": "Exclusive Development Expenses",
       "code": "142",
-      "active": true
+      "active": false
     },
     {
-      "name": "Discretionary funds",
+      "name": "Discretionary funds/Exclusive Development Expenses",
       "code": "150",
       "active": true
     },
@@ -500,6 +500,11 @@
     {
       "name": "Hospital Administration",
       "code": "161",
+      "active": true
+    },
+    {
+      "name": "Remunerative Project Cell",
+      "code": "154",
       "active": true
     }
   ]

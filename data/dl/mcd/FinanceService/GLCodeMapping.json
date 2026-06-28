@@ -378,6 +378,16 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "processingFee",
+      "componentCode": "HTLCC04",
+      "debitGL": "1407016",     
+      "creditGL": "1407016",
+      "active": true     
+    },
+    {
       "serviceCode": "HTL2",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -405,6 +415,16 @@
       "componentCode": "HTL2CC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+     {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "processingFee",
+      "componentCode": "HTL2CC04",
+      "debitGL": "1407016",     
+      "creditGL": "1407016",
       "active": true     
     },
     {

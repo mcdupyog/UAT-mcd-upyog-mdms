@@ -30799,7 +30799,13 @@
       "actioncode": "",
       "tenantId": "dl"
     },
-	    {
+	{
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2912,
+      "actioncode": "",
+      "tenantId": "dl"
+    },  
+	{
       "rolecode": "SUPERUSER",
       "actionid": 2913,
       "actioncode": "",
@@ -31708,6 +31714,90 @@
       "actionid": 2956,
       "actioncode": "",
       "tenantId": "dl"
-    }
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 2928,
+    "actioncode": "add budget",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1761,
+    "actioncode": "budget appropriation",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_APPROVER",
+    "actionid": 1761,
+    "actioncode": "budget appropriation",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1762,
+    "actioncode": "upload budget",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1755,
+    "actioncode": "create budget group",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1756,
+    "actioncode": "view budget group",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1758,
+    "actioncode": "create budget definition",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1759,
+    "actioncode": "view budget definition",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1760,
+    "actioncode": "update budget definition",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1764,
+    "actioncode": "search budget",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_APPROVER",
+    "actionid": 1764,
+    "actioncode": "search budget",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_CREATOR",
+    "actionid": 1771,
+    "actioncode": "budget uploaded report",
+    "tenantId": "dl"
+    },
+    {
+    "rolecode": "BUDGET_APPROVER",
+    "actionid": 1771,
+    "actioncode": "budget uploaded report",
+    "tenantId": "dl"
+   },
+   {
+    "rolecode": "BUDGET_APPROVER",
+    "actionid": 1763,
+    "actioncode": "approve uploaded budget",
+    "tenantId": "dl"
+   }
   ]
 }

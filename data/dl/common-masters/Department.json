@@ -463,11 +463,6 @@
       "active": true
     },
     {
-      "name": "Exclusive Development Expenses",
-      "code": "142",
-      "active": false
-    },
-    {
       "name": "Discretionary funds/Exclusive Development Expenses",
       "code": "150",
       "active": true
@@ -500,11 +495,6 @@
     {
       "name": "Hospital Administration",
       "code": "161",
-      "active": true
-    },
-    {
-      "name": "Remunerative Project Cell",
-      "code": "154",
       "active": true
     }
   ]

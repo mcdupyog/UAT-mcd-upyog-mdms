@@ -281,6 +281,16 @@
       "code": "BANK_ACCOUNT_APPROVER",
       "name": "Bank Account Inbox",
       "description": "User can Approve the Bank Account Created"
+    },
+    {
+      "code": "BUDGET_CREATOR",
+      "name": "Budget creator",
+      "description": "User can create the Budget"
+    },
+    {
+      "code": "BUDGET_APPROVER",
+      "name": "Budget approver",
+      "description": "User can approve the Budget"
     }
   ]
 }

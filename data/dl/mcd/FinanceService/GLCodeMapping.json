@@ -319,6 +319,26 @@
       "active": true     
     },
     {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "RBDCC04",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
+      "active": true     
+    },
+    {
+      "serviceCode": "RBD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "RBDCC05",
+      "debitGL": "1401302",     
+      "creditGL": "1401302",
+      "active": true     
+    },
+    {
       "serviceCode": "HOS",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -345,6 +365,26 @@
       "componentCode": "HOSCC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "HOSCC04",
+      "debitGL": "1401013",     
+      "creditGL": "1401013",
+      "active": true     
+    },
+    {
+      "serviceCode": "HOS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "HOSCC05",
+      "debitGL": "1401013",     
+      "creditGL": "1401013",
       "active": true     
     },
     {
@@ -388,6 +428,46 @@
       "active": true     
     },
     {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "licenseFee",
+      "componentCode": "HTLCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "registrationFee",
+      "componentCode": "HTLCC06",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "HTLCC07",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "HTLCC08",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
       "serviceCode": "HTL2",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -427,6 +507,46 @@
       "creditGL": "1407016",
       "active": true     
     },
+     {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "licenseFee",
+      "componentCode": "HTL2CC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "registrationFee",
+      "componentCode": "HTL2CC06",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "HTL2CC07",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "HTL2",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "HTL2CC08",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
     {
       "serviceCode": "ETL",
       "propertyCategory": "*",
@@ -454,6 +574,26 @@
       "componentCode": "ETLCC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "ETLCC04",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "ETL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "ETLCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -487,6 +627,26 @@
       "active": true     
     },
     {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "AMTCC04",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMT",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "AMTCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
       "serviceCode": "AMD",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -514,6 +674,26 @@
       "componentCode": "AMDCC03",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "AMDCC04",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
+      "active": true     
+    },
+    {
+      "serviceCode": "AMD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "AMDCC05",
+      "debitGL": "1401107",     
+      "creditGL": "1401107",
       "active": true     
     },
     {
@@ -597,6 +777,16 @@
       "active": true     
     },
     {
+      "serviceCode": "VTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "VTLCC09",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
       "serviceCode": "PET",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -667,6 +857,16 @@
       "active": true     
     },
     {
+      "serviceCode": "PET",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PETCC08",
+      "debitGL": "1401108",     
+      "creditGL": "1401108",
+      "active": true     
+    },
+    {
       "serviceCode": "GTL",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -734,6 +934,16 @@
       "componentCode": "GTLCC07",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "GTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "GTLCC08",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
       "active": true     
     },
     {
@@ -844,6 +1054,16 @@
       "componentCode": "FTLCC11",
       "debitGL": "1808011",     
       "creditGL": "1808011",
+      "active": true     
+    },
+    {
+      "serviceCode": "FTL",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "FTLCC12",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
       "active": true     
     },
     {
@@ -1387,6 +1607,26 @@
       "active": true     
     },
     {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "CSDCC15",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "CSDCC16",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
       "serviceCode": "PRK",
       "propertyCategory": "*",
       "taxPeriod": "*",
@@ -1527,6 +1767,26 @@
       "active": true     
     },
     {
+      "serviceCode": "PRK",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PRKCC15",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
+      "serviceCode": "CSD",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "PRKCC16",
+      "debitGL": "1401105",     
+      "creditGL": "1401105",
+      "active": true     
+    },
+    {
     "serviceCode": "PRMS",
     "propertyCategory": "*",
     "taxPeriod": "*",
@@ -1616,6 +1876,16 @@
       "creditGL": "1808011",
       "active": true     
   },
+  {
+      "serviceCode": "PRMS",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PRMSCC10",
+      "debitGL": "1405006",     
+      "creditGL": "1405006",
+      "active": true     
+   },
   {
     "serviceCode": "PTR_CAMP",
     "propertyCategory": "*",
@@ -2095,6 +2365,576 @@
       "debitGL": "1808011",     
       "creditGL": "1808011",
       "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "SALARYCC01",
+      "debitGL": "45020081",     
+      "creditGL": "45020081",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "BasicPay",
+      "componentCode": "SALARYCC02",
+      "debitGL": "2101007",     
+      "creditGL": "2101007",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "DA",
+      "componentCode": "SALARYCC03",
+      "debitGL": "2101008",     
+      "creditGL": "2101008",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "HRAX",
+      "componentCode": "SALARYCC04",
+      "debitGL": "2101010",     
+      "creditGL": "2101010",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "TAL3toL8SpCity",
+      "componentCode": "SALARYCC05",
+      "debitGL": "2101023",     
+      "creditGL": "2101023",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "DATAL3toL8SpCity",
+      "componentCode": "SALARYCC06",
+      "debitGL": "2101023",     
+      "creditGL": "2101023",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "GIS",
+      "componentCode": "SALARYCC07",
+      "debitGL": "3502009",     
+      "creditGL": "3502009",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "NPS",
+      "componentCode": "SALARYCC08",
+      "debitGL": "3501113",     
+      "creditGL": "3501113",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "IncomeTax",
+      "componentCode": "SALARYCC09",
+      "debitGL": "3502005",     
+      "creditGL": "3502005",
+      "active": true     
+  },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "MCDEHS",
+      "componentCode": "SALARYCC10",
+      "debitGL": "3403002",     
+      "creditGL": "3403002",
+      "active": true     
+  },
+   {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "MCDEHSDEC2025",
+      "componentCode": "SALARYCC11",
+      "debitGL": "3403002",     
+      "creditGL": "3403002",
+      "active": true     
+  },
+   {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "SLF",
+      "componentCode": "SALARYCC12",
+      "debitGL": "1301015",     
+      "creditGL": "1301015",
+      "active": true     
+  },
+   {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "SALARYCC13",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+   },
+  {
+      "serviceCode": "SALARY",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "GPF",
+      "componentCode": "SALARYCC14",
+      "debitGL": "3501115",     
+      "creditGL": "3501115",
+      "active": true     
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "permitFee",
+    "componentCode": "OBPASCC01",
+    "debitGL": "1108002",
+    "creditGL": "1108002",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "compoundingCharge",
+    "componentCode": "OBPASCC02",
+    "debitGL": "1402007",
+    "creditGL": "1402007",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "preOccupancyCharge",
+    "componentCode": "OBPASCC03",
+    "debitGL": "1402007",
+    "creditGL": "1402007",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "levy",
+    "componentCode": "OBPASCC04",
+    "debitGL": "1401201",
+    "creditGL": "1401201",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "additionalLevy",
+    "componentCode": "OBPASCC05",
+    "debitGL": "1401201",
+    "creditGL": "1401201",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "bettermentCharge",
+    "componentCode": "OBPASCC06",
+    "debitGL": "1401201",
+    "creditGL": "1401201",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "stackingCharge",
+    "componentCode": "OBPASCC07",
+    "debitGL": "1402007",
+    "creditGL": "1402007",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "wasteCharge",
+    "componentCode": "OBPASCC08",
+    "debitGL": "1402004",
+    "creditGL": "1402004",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "conversionCharge",
+    "componentCode": "OBPASCC09",
+    "debitGL": "1401503",
+    "creditGL": "1401503",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "parkingCharge",
+    "componentCode": "OBPASCC10",
+    "debitGL": "1401504",
+    "creditGL": "1401504",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "developmentCharge",
+    "componentCode": "OBPASCC11",
+    "debitGL": "1401403",
+    "creditGL": "1401403",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharge",
+    "componentCode": "OBPASCC12",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "cessCharge",
+    "componentCode": "OBPASCC13",
+    "debitGL": "3502019",
+    "creditGL": "3502019",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "plinthFee",
+    "componentCode": "OBPASCC14",
+    "debitGL": "1108002",
+    "creditGL": "1108002",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "adminITCharges",
+    "componentCode": "OBPASCC15",
+    "debitGL": "1407014",
+    "creditGL": "1407014",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "revalidationCharges",
+    "componentCode": "OBPASCC16",
+    "debitGL": "1108002",
+    "creditGL": "1108002",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "saralPlanFee",
+    "componentCode": "OBPASCC17",
+    "debitGL": "1108002",
+    "creditGL": "1108002",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges1",
+    "componentCode": "OBPASCC18",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges2",
+    "componentCode": "OBPASCC19",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "compensatoryAndRegulatoryCharge",
+    "componentCode": "OBPASCC20",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "interestCharges",
+    "componentCode": "OBPASCC21",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "infrastructureUpgradationCharges",
+    "componentCode": "OBPASCC22",
+    "debitGL": "1401404",
+    "creditGL": "1401404",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "infringementSetback",
+    "componentCode": "OBPASCC23",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "areaDeviationComponent",
+    "componentCode": "OBPASCC24",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "deviationHeight",
+    "componentCode": "OBPASCC25",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "deviationWidthLength",
+    "componentCode": "OBPASCC26",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "increasedSizeCanopy",
+    "componentCode": "OBPASCC27",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "terraceTypeConstruction",
+    "componentCode": "OBPASCC28",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "jaliWallBalcony",
+    "componentCode": "OBPASCC29",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "toiletOnTerrece",
+    "componentCode": "OBPASCC30",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "plinthSetbackPortion",
+    "componentCode": "OBPASCC31",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "partitionWallsWithoutSanction",
+    "componentCode": "OBPASCC32",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "extraSlabWithoutSanction",
+    "componentCode": "OBPASCC33",
+    "debitGL": "1401506",
+    "creditGL": "1401506",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges3",
+    "componentCode": "OBPASCC34",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges4",
+    "componentCode": "OBPASCC35",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges5",
+    "componentCode": "OBPASCC36",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges6",
+    "componentCode": "OBPASCC37",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges7",
+    "componentCode": "OBPASCC38",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges8",
+    "componentCode": "OBPASCC39",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges9",
+    "componentCode": "OBPASCC40",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "otherCharges10",
+    "componentCode": "OBPASCC41",
+    "debitGL": "1808010",
+    "creditGL": "1808010",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "roundoff",
+    "componentCode": "OBPASCC42",
+    "debitGL": "1808011",
+    "creditGL": "1808011",
+    "active": true
+  },
+   {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "bank",
+    "componentCode": "OBPASCC43",
+    "debitGL": "45020081",
+    "creditGL": "45020081",
+    "active": true
   }
  ]
 }

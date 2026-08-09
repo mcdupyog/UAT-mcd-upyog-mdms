@@ -193,11 +193,6 @@
       "active": true
     },
     {
-      "name": "Science Teaching",
-      "code": "065",
-      "active": true
-    },
-    {
       "name": "Libraries",
       "code": "066",
       "active": true
@@ -265,11 +260,6 @@
     {
       "name": "Dispensaries - Allopathic",
       "code": "082",
-      "active": true
-    },
-    {
-      "name": "Security staff - Health",
-      "code": "083",
       "active": true
     },
     {

@@ -291,6 +291,11 @@
       "code": "BUDGET_APPROVER",
       "name": "Budget approver",
       "description": "User can approve the Budget"
-    }
+    },
+    {
+      "code": "BUDGET_VIEWER",
+      "name": "Budget view",
+      "description": "User can view the Budget"
+    }  
   ]
 }

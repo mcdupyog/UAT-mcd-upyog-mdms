@@ -31894,6 +31894,12 @@
       "actionid": 2959,
       "actioncode": "",
       "tenantId": "dl"
-  }  
+  },
+  {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2960,
+      "actioncode": "",
+      "tenantId": "dl"
+  }
  ]
 }

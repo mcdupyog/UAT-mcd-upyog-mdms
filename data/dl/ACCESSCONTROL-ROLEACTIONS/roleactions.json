@@ -31876,6 +31876,30 @@
     "actionid": 2958,
     "actioncode": "",
     "tenantId": "dl"
+  },
+  {
+      "rolecode": "BUDGET_CONTROL",
+      "actionid": 2959,
+      "actioncode": "",
+      "tenantId": "dl"
+  },
+  {
+      "rolecode": "SUPERUSER",
+      "actionid": 2959,
+      "actioncode": "",
+      "tenantId": "dl"
+  },
+  {
+      "rolecode": "HQSTATEUSER",
+      "actionid": 2959,
+      "actioncode": "",
+      "tenantId": "dl"
+  },
+  {
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2960,
+      "actioncode": "",
+      "tenantId": "dl"
   }
  ]
 }

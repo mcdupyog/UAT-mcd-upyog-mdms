@@ -43,7 +43,7 @@
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
             "boundaryNum": 1,
-            "name": "CENTRAL ZONE",
+            "name": "South East zone (central zone)",
             "localname": "CENTRAL ZONE",
             "longitude": null,
             "latitude": null,
@@ -330,7 +330,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 2,
-            "name": "City-SP Zone",
+            "name": "Old delhi Zone (city-SP)",
             "localname": "City-SP Zone",
             "longitude": null,
             "latitude": null,
@@ -474,7 +474,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 3,
-            "name": "Civil Lines Zone",
+            "name": "North Zone (Civil Lines)",
             "localname": "Civil lines Zone",
             "longitude": null,
             "latitude": null,
@@ -651,7 +651,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 4,
-            "name": "Karol Bagh",
+            "name": "Central zone (Karol Bagh)",
             "localname": "Karol Bagh",
             "longitude": null,
             "latitude": null,
@@ -806,7 +806,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 5,
-            "name": "Keshavpuram",
+            "name": "Central North zone (Keshavpuram)",
             "localname": "Keshavpuram",
             "longitude": null,
             "latitude": null,
@@ -983,7 +983,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 6,
-            "name": "Najafgarh Zone",
+            "name": "South West (Najafgarh) Zone",
             "localname": "Najafgarh Zone",
             "longitude": null,
             "latitude": null,
@@ -1237,7 +1237,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 7,
-            "name": "Narela Zone",
+            "name": "Outer North Zone (narela)",
             "localname": "Narela Zone",
             "longitude": null,
             "latitude": null,
@@ -1425,7 +1425,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 8,
-            "name": "North Shahdara Zone",
+            "name": "North East zone (North Shahdara)",
             "localname": "North Shahdara Zone",
             "longitude": null,
             "latitude": null,
@@ -1833,7 +1833,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 9,
-            "name": "Rohini Zone",
+            "name": "North West zone (Rohini)",
             "localname": "Rohini Zone",
             "longitude": null,
             "latitude": null,
@@ -2087,7 +2087,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 10,
-            "name": "South Shahdara Zone",
+            "name": "East zone (South Shahdara)",
             "localname": "South Shahdara Zone",
             "longitude": null,
             "latitude": null,
@@ -2991,7 +2991,7 @@
           {
             "id": "2323ddf1-4228-45b4-887c-915d5e974bc2",
             "boundaryNum": 1,
-            "name": "CENTRAL ZONE",
+            "name": "South East zone",
             "localname": "CENTRAL ZONE",
             "longitude": null,
             "latitude": null,
@@ -3278,7 +3278,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 2,
-            "name": "City-SP Zone",
+            "name": "Old delhi Zone (city-SP)",
             "localname": "City-SP Zone",
             "longitude": null,
             "latitude": null,
@@ -3422,8 +3422,8 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 3,
-            "name": "Civil Lines Zone",
-            "localname": "Civil lines Zone",
+            "name": "North Zone (Civil Lines)",
+            "localname": "North Zone (Civil Lines)",
             "longitude": null,
             "latitude": null,
             "label": "Zone",
@@ -3645,7 +3645,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 4,
-            "name": "Karol Bagh",
+            "name": "Central zone (Karol Bagh)",
             "localname": "Karol Bagh",
             "longitude": null,
             "latitude": null,
@@ -3823,7 +3823,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 5,
-            "name": "Keshavpuram",
+            "name": "Central North zone (Keshavpuram)",
             "localname": "Keshavpuram",
             "longitude": null,
             "latitude": null,
@@ -4023,7 +4023,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 6,
-            "name": "Najafgarh Zone",
+            "name": "South West (Najafgarh) Zone",
             "localname": "Najafgarh Zone",
             "longitude": null,
             "latitude": null,
@@ -4277,7 +4277,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 7,
-            "name": "Narela Zone",
+            "name": "Outer North Zone (narela)",
             "localname": "Narela Zone",
             "longitude": null,
             "latitude": null,
@@ -4465,7 +4465,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 8,
-            "name": "North Shahdara Zone",
+            "name": "North East zone (North Shahdara)",
             "localname": "North Shahdara Zone",
             "longitude": null,
             "latitude": null,
@@ -4896,7 +4896,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 9,
-            "name": "Rohini Zone",
+            "name": "North West zone (Rohini)",
             "localname": "Rohini Zone",
             "longitude": null,
             "latitude": null,
@@ -5150,7 +5150,7 @@
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
             "boundaryNum": 10,
-            "name": "South Shahdara Zone",
+            "name": "East zone (South Shahdara)",
             "localname": "South Shahdara Zone",
             "longitude": null,
             "latitude": null,

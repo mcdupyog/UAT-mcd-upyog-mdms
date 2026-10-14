@@ -1,0 +1,705 @@
+{   
+    "tenantId": "dl",
+    "moduleName": "common-masters",
+    "CategorisedFunds":[
+        {
+          "Non-plan": [
+        {
+            "Name": "General Fund",
+            "Code": 5001,
+            "Identifier": 1.0,
+            "Level": 2,
+            "Parent Fund": "Muncipal Fund",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Land use Conversion Charges Escrow Fund",
+            "Code": 5002,
+            "Identifier": 1.0,
+            "Level": 2,
+            "Parent Fund": "Muncipal Fund",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Road Restoration Charges",
+            "Code": 5003,
+            "Identifier": 1.0,
+            "Level": 2,
+            "Parent Fund": "Muncipal Fund",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Earnest Money",
+            "Code": 5005,
+            "Identifier": 1.0,
+            "Level": 2,
+            "Parent Fund": "Muncipal Fund",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - Own Source",
+            "Code": 5010,
+            "Identifier": 1.0,
+            "Level": 2,
+            "Parent Fund": "Muncipal Fund",
+            "Isnotleaf": null,
+            "Active": true
+        }
+    ],
+    "Plan": [
+        {
+            "Name": "XL-V-A(i) Strent and Mech Sanitation-Revenue",
+            "Code": 6101,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution UD Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-V-A(ii) Strent and Mech Sanitation--Capital",
+            "Code": 6102,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution UD Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-V-A(iii) Strent and Mech Sanitation-Salary",
+            "Code": 6103,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution UD Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Spl Grant for Pollution Control XL-V-B",
+            "Code": 6104,
+            "Identifier": null,
+            "Level": 1,
+            "Parent Fund": "DFC Devolution UD Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - DFC Devolution UD Sector",
+            "Code": 6110,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution UD Sector",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-II-A(I) Primary education Revenue",
+            "Code": 6201,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-A(ii) Primary education Capital",
+            "Code": 6202,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-A(iii) Primary education Salaries",
+            "Code": 6203,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-B(i) Physical education Revenue",
+            "Code": 6204,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-B(ii) Physical education Capital",
+            "Code": 6205,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-B(iii) Physical education Salaries",
+            "Code": 6206,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - DFC Devolution Education Sector",
+            "Code": 6210,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Education Sector",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-IX-A(i) Medical Health Purpose Revenue",
+            "Code": 6301,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IX-A(ii) Medical Health Purpose Capital",
+            "Code": 6302,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IX-A(iii) Medical Health Purpose Salaries",
+            "Code": 6303,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IX-B(i) Medical power improvement General",
+            "Code": 6304,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IX-B(ii) Medical Power improvement Capital",
+            "Code": 6305,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IV-A(i) ISM General",
+            "Code": 6306,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IV-A(ii) ISM Capital",
+            "Code": 6307,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-IV-A(iii) ISM Salaries",
+            "Code": 6308,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - DFC Devolution Medical Sector",
+            "Code": 6310,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "DFC Devolution Medical Sector",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-III-A(i) Public Health Communicable dis General",
+            "Code": 6401,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-III-A(ii) Public Health Communicable ds Capital",
+            "Code": 6402,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-III-A(iii)Public Health Communicable d Salaries",
+            "Code": 6403,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-III-C(i) Death&Birth Registration General",
+            "Code": 6404,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-III-C(iii)  Death&Birth Registration Salaries",
+            "Code": 6405,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-III-B(i) Other Public Health Programme Revenue",
+            "Code": 6406,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-III-B(ii) Other Public Health Programme Capital",
+            "Code": 6407,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - Public Health",
+            "Code": 6410,
+            "Identifier": 2.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-VIII-X TYADB Schemes",
+            "Code": 6501,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-VIII-ZF RDB Schemes",
+            "Code": 6502,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-VIII-ZF-I DVDB Schemes",
+            "Code": 6503,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "LA-MSPY schemes",
+            "Code": 6504,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-VIII-N SC/ST Basti Schemes",
+            "Code": 6505,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "DPCC SWM",
+            "Code": 6506,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-VIII-U  Chief Minister Development Fund",
+            "Code": 6507,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XLVIIID DISTRICT PROJECT FUND SCHEMES",
+            "Code": 6508,
+            "Identifier": 3.0,
+            "Level": 3,
+            "Parent Fund": null,
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security -State Government others sponsored scheme",
+            "Code": 6510,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-II G VII EWS",
+            "Code": 6511,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Family Welfare Scheme under National Programme",
+            "Code": 6512,
+            "Identifier": null,
+            "Level": 1,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Grant- Under RTE ACT",
+            "Code": 6513,
+            "Identifier": null,
+            "Level": 1,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "National clean air program NCAP",
+            "Code": 6514,
+            "Identifier": null,
+            "Level": 1,
+            "Parent Fund": "State Government - Others Sponsored Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "MLA LAD Schemes",
+            "Code": 6601,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "MLA LAD",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - MLA LAD",
+            "Code": 6610,
+            "Identifier": 3.0,
+            "Level": 2,
+            "Parent Fund": "Public Health",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "Food Security Allowance",
+            "Code": 7001,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Mid-day meal (Nutrition)",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-G-VI(i) Cooking cost",
+            "Code": 7002,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Mid-day meal (Nutrition)",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-G-VI(ii) Cost of food grains",
+            "Code": 7003,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Mid-day meal (Nutrition)",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-G-VI(iii) Transportation and storage",
+            "Code": 7004,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Mid-day meal (Nutrition)",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-G-VI(iv) MME fund",
+            "Code": 7005,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Mid-day meal (Nutrition)",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-II-G-VI(v) Honorarium to cook cum helpers",
+            "Code": 7006,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Mid-day meal (Nutrition)",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "SSA General",
+            "Code": 7101,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Samagra Shiksha Abhiyan",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "SSA Capital",
+            "Code": 7102,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Samagra Shiksha Abhiyan",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "SSA Salaries",
+            "Code": 7103,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Samagra Shiksha Abhiyan",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - Samagra Shiksha Abhiyan",
+            "Code": 7110,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "Samagra Shiksha Abhiyan",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "Capacity Building",
+            "Code": 7201,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "SBM",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Information, Education & Communication",
+            "Code": 7202,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "SBM",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Individual Household Toilets",
+            "Code": 7203,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "SBM",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-VIII-B SBM- Solid Waste Management",
+            "Code": 7204,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "SBM",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - SBM",
+            "Code": 7210,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "SBM",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "PM-ABHIM",
+            "Code": 7301,
+            "Identifier": 4.0,
+            "Level": 2,
+            "Parent Fund": "State-Centre shared Health schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "XL-VIII-H AMRUT schemes",
+            "Code": 8001,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "AMRUT",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - AMRUT",
+            "Code": 8010,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "AMRUT",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-VIII-O NRHM schemes",
+            "Code": 8101,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "National Rural Health Mission",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - National Rural Health Mission",
+            "Code": 8110,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "National Rural Health Mission",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-VIII-L(i)  UDF scheme (DDA)",
+            "Code": 8201,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "Urban Development Fund",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - Urban Development Fund",
+            "Code": 8210,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "Urban Development Fund",
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "XL-VIII-L-iii DGA Schemes",
+            "Code": 8301,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": null,
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "Security - Delhi Gramodaya Abhiyan",
+            "Code": 8310,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": null,
+            "Isnotleaf": null,
+            "Active": null
+        },
+        {
+            "Name": "Central Pollution Control Board Schemes",
+            "Code": 8401,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "CPCB",
+            "Isnotleaf": true,
+            "Active": true
+        },
+        {
+            "Name": "LI-P National Clean Air Programme",
+            "Code": 8403,
+            "Identifier": 5.0,
+            "Level": 3,
+            "Parent Fund": "Central Pollution Control Board Schemes",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "MP LAD schemes",
+            "Code": 8601,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "MP LAD",
+            "Isnotleaf": null,
+            "Active": true
+        },
+        {
+            "Name": "Security - MP LAD",
+            "Code": 8610,
+            "Identifier": 5.0,
+            "Level": 2,
+            "Parent Fund": "MP LAD",
+            "Isnotleaf": null,
+            "Active": null
+        }
+      ]
+     }
+   ]
+}

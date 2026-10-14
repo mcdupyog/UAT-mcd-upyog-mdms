@@ -2935,6 +2935,313 @@
     "debitGL": "45020081",
     "creditGL": "45020081",
     "active": true
-  }
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "amount",
+    "componentCode": "OBPASCC44",
+    "debitGL": "1401205",
+    "creditGL": "1401205",
+    "active": true
+  },
+  {
+    "serviceCode": "OBPAS",
+    "propertyCategory": "*",
+    "taxPeriod": "*",
+    "componentName": "sanctionWithinPermissibleLimit",
+    "componentCode": "OBPASCC45",
+    "debitGL": "1401205",
+    "creditGL": "1401205",
+    "active": true
+  },
+  {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "bank",
+      "componentCode": "PTRMCC01",
+      "debitGL": "45020086",     
+      "creditGL": "45020086",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "RESIDENTIAL",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC02",
+      "debitGL": "4311001",
+      "creditGL": "4311001",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "COMMERCIAL",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC03",
+      "debitGL": "4311003",
+      "creditGL": "4311003",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "STATE_GOVT",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC04",
+      "debitGL": "4311005",
+      "creditGL": "4311005",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "CENTRAL_GOVT",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC05",
+      "debitGL": "4311007",
+      "creditGL": "4311007",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "SICK_CLOSED",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC06",
+      "debitGL": "4311009",
+      "creditGL": "4311009",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "LITIGATION",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC07",
+      "debitGL": "4311011",
+      "creditGL": "4311011",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "MIXED_USE",
+      "taxPeriod": "CURRENT",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC08",
+      "debitGL": "4311015",
+      "creditGL": "4311015",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "RESIDENTIAL",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC09",
+      "debitGL": "4311002",
+      "creditGL": "4311002",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "COMMERCIAL",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC10",
+      "debitGL": "4311004",
+      "creditGL": "4311004",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "STATE_GOVT",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC11",
+      "debitGL": "4311006",
+      "creditGL": "4311006",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "CENTRAL_GOVT",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC12",
+      "debitGL": "4311008",
+      "creditGL": "4311008",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "SICK_CLOSED",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC13",
+      "debitGL": "4311010",
+      "creditGL": "4311010",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "LITIGATION",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC14",
+      "debitGL": "4311012",
+      "creditGL": "4311012",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "MIXED_USE",
+      "taxPeriod": "ARREARS",
+      "componentName": "currentDemand",
+      "componentCode": "PTRMCC15",
+      "debitGL": "4311016",
+      "creditGL": "4311016",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "educationCess",
+      "componentCode": "PTRMCC16",
+      "debitGL": "1105201",
+      "creditGL": "1105201",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "exemption",
+      "componentCode": "PTRMCC17",
+      "debitGL": "1407007",
+      "creditGL": "1407007"
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "latePenality",
+      "componentCode": "PTRMCC18",
+      "debitGL": "1100108",
+      "creditGL": "1100108",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "finePenality",
+      "componentCode": "PTRMCC19",
+      "debitGL": "1100108",
+      "creditGL": "1100108"
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "rebate",
+      "componentCode": "PTRMCC20",
+      "debitGL": "2408001",
+      "creditGL": "2408001",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "onlineRebate",
+      "componentCode": "PTRMCC21",
+      "debitGL": "2408001",
+      "creditGL": "2408001",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "interest",
+      "componentCode": "PTRMCC22",
+      "debitGL": "1100118",
+      "creditGL": "1100118",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "rebateDescription",
+      "componentCode": "PTRMCC23",
+      "debitGL": "2408001",
+      "creditGL": "2408001",
+      "active": true
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "tradeFee",
+      "componentCode": "PTRMCC24",
+      "debitGL": "1401103",     
+      "creditGL": "1401103",
+      "active": true     
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "userCharge",
+      "componentCode": "PTRMCC25",
+      "debitGL": "1405024",     
+      "creditGL": "1405024"     
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "adjustmentAmount",
+      "componentCode": "PTRMCC26",
+      "debitGL": "1402006",     
+      "creditGL": "1402006",
+      "active": true     
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "alreadyPaid",
+      "componentCode": "PTRMCC27",
+      "debitGL": "3504101",     
+      "creditGL": "3504101",
+      "active": true     
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "Surcharge",
+      "componentCode": "PTRMCC28",
+      "debitGL": "1100107",     
+      "creditGL": "1100107",
+      "active": true     
+    },
+    {
+      "serviceCode": "PTR_M",
+      "propertyCategory": "*",
+      "taxPeriod": "*",
+      "componentName": "roundoff",
+      "componentCode": "PTRMCC29",
+      "debitGL": "1808011",     
+      "creditGL": "1808011",
+      "active": true     
+    }
  ]
 }

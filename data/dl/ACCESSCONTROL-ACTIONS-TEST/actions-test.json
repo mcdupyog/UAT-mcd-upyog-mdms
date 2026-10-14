@@ -3390,7 +3390,7 @@
       "parentModule": "",
       "displayName": "Direct Bank Payments",
       "orderNumber": 2,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
@@ -20141,6 +20141,56 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Report Generation.Monthly Accounts Report"
-    }  
+    },
+	{
+      "id": 2961,
+      "name": "Pending Demands For Deduction",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Pending Demands For Deduction",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Contra.Pending Demands For Deduction",
+      "navigationURL": "services/EGF/processDeductionDemand/process"
+    },
+	{
+      "id": 2962,
+      "name": "Get ApplicationCodes",
+      "url": "/revenue-ingestion/api/application-codes",
+      "parentModule": "revenue-ingestion",
+      "displayName": "Get ApplicationCodes",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "revenue-ingestion",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2963,
+      "name": "Get Processed",
+      "url": "/revenue-ingestion/api/transactions",
+      "parentModule": "revenue-ingestion",
+      "displayName": "Get Processed",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "revenue-ingestion",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2964,
+      "name": "Get Failed",
+      "url": "/revenue-ingestion/transaction_queue",
+      "parentModule": "revenue-ingestion",
+      "displayName": "Get Failed",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "revenue-ingestion",
+      "code": "null",
+      "path": ""
+    }
   ]
 }

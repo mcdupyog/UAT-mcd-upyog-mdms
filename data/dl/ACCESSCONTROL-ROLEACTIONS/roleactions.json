@@ -31954,6 +31954,30 @@
     "actionid": 2964,
     "actioncode": "",
     "tenantId": "dl"
-  }
+  },
+  {
+    "rolecode": "ECBC_DASHBOARD",
+    "actionid": 2965,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2965,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "SUPERUSER",
+    "actionid": 2966,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 2966,
+    "actioncode": "",
+    "tenantId": "dl"
+  }	  
  ]
 }

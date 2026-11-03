@@ -3390,7 +3390,7 @@
       "parentModule": "",
       "displayName": "Direct Bank Payments",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
@@ -19747,7 +19747,7 @@
       "parentModule": "EGF",
       "displayName": "Pending for Voucher Creation",
       "orderNumber": 2,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "Finance",
       "code": "null",
       "leftIcon": "editor:insert-chart",
@@ -20191,6 +20191,34 @@
       "serviceCode": "revenue-ingestion",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2965,
+      "name": "ECBC/DDO Dashboard",
+      "navigationURL": "services/EGF/ecbc-dashboard",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "ECBC/DDO Dashboard",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.ECBC/DDO Dashboard"
+    },
+	{
+      "id": 2966,
+      "name": "Commissioner Dashboard",
+      "navigationURL": "services/EGF/commissioner-dashboard",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Commissioner Dashboard",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.commissioner Dashboard"
     }
   ]
 }

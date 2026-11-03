@@ -296,6 +296,11 @@
       "code": "BUDGET_VIEWER",
       "name": "Budget view",
       "description": "User can view the Budget"
+    },
+    {
+      "code": "ECBC_DASHBOARD",
+      "name": "ECBC/DDO Dashboard Viewer",
+      "description": "User can view the ECBC/DDO Dashboard"
     }  
   ]
 }

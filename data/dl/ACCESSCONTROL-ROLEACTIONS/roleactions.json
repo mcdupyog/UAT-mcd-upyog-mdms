@@ -31968,6 +31968,18 @@
     "tenantId": "dl"
   },
   {
+    "rolecode": "EGF_BILL_CREATOR",
+    "actionid": 2965,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
+    "rolecode": "EGF_BILL_APPROVER",
+    "actionid": 2965,
+    "actioncode": "",
+    "tenantId": "dl"
+  },
+  {
     "rolecode": "SUPERUSER",
     "actionid": 2966,
     "actioncode": "",
